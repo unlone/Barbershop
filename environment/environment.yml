@@ -4,6 +4,7 @@ channels:
   - defaults
   - conda-forge
 dependencies:
+  - conda-build=3.23.3
   - _libgcc_mutex=0.1=main
   - argcomplete=1.12.3=pyhd3eb1b0_0
   - argon2-cffi=20.1.0=py37h27cfd23_1
